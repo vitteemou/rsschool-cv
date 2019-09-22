@@ -1,8 +1,7 @@
 # Maria Goenko
 *Curriculum Vitae*
 
-Phone: +375291258427
-
+Phone: +375291258427  
 Email: maria.m.shvets@gmail.com
 
 ## Education
@@ -47,8 +46,7 @@ Technologies: Java, Spring, Hibernate, SAP Hybris, Apache Maven, REST, Spock Fra
 ## Projects
 
 ### "Development of methods and software tools for visual neural network building environment"
-#### Feb 2018 – Jun 2018
-*term project*
+**Feb 2018 – Jun 2018**, *term project*
 
 *Advisor: Prof. Alexander V. Tuzikov.*  
 In this work I’m developing data import module for dataset creation option in Deep Learning
@@ -57,8 +55,7 @@ general concepts and Python basics, gained basic knowledge of JavaScript, Angula
 HTML and CSS.
 
 ### "Approximation algorithms for Subset Sum Problem"
-#### 2016
-*term project*
+**2016**, *term project*
 
 *Advisor: Prof. Yakov M. Shafransky.*  
 In this paper the Subset Sum Problem (SSP) is studied, and using some existing approxima-
@@ -77,8 +74,7 @@ of 6/5.
 
 ## Certificates
 
-### Salesforce Platform Developer I
-#### Feb 2019
+**Salesforce Platform Developer I**, *Feb 2019*
 
 ## Languages
 
