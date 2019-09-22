@@ -1,1 +1,1 @@
-# rsschool-cv
+ https://vitteemou.github.io/rsschool-cv/cv
