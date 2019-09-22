@@ -1,0 +1,60 @@
+body {
+    max-width: 1024px;
+    margin: 32px auto;
+
+    font-family: "Arial", sans-serif;
+    line-height: 1.5;
+
+    color: #24292E;
+}
+
+h1, h2 {
+    border-bottom: 1px solid #EAECEF;
+}
+
+a {
+    color: #0366D6;
+}
+
+a:visited, a:link {
+    text-decoration: none;
+}
+
+.cv-header ul, .cv-section ul {
+    margin: 0;
+    padding: 0;
+
+    list-style-type: none;
+}
+
+.cv-section li {
+    margin-top: 32px;
+}
+
+.cv-section-skills ul, .cv-section-languages ul {
+    padding-left: 20px;
+
+    list-style-type: disc;
+}
+
+.cv-section-skills li, .cv-section-languages li, 
+.cv-section-certificates li, .cv-section-links li {
+    margin-top: 8px;
+}
+
+.cv-section__list-item-title {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.cv-section__list-item-time {
+    font-weight: 600;
+}
+
+.cv-section__list-item-time {
+    font-weight: 600;
+}
+
+.cv-section__list-item-position, .cv-section__list-item-level {
+    font-style: italic;
+}
